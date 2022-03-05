@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LsAsignaturas</string>
+    <string name="a1">I3012_Desenvolupament en dispositius mòbils I</string>
+    <string name="a2">I3015_Administració de sistemes operatius</string>
+    <string name="a3">I3010_Desenvolupament en entorns web</string>
+    <string name="a4">I3014_Sistemes operatius</string>
+    <string name="d1">El objetivo principal de la asignatura es ampliar los conocimientos de los alumnos en el campo de la programación, presentándolos un nuevo ámbito: la programación para dispositivos móviles. Dado que el mundo de la programación para dispositivos móviles es muy amplio, la asignatura se centrará en el sistema que, de momento, tiene una mayor presencia en el mercado. Este sistema es Android. La asignatura tendrá también como objetivo dotar al alumno de técnicas y conocimientos, tanto prácticos como teóricos, que le permitan afrontar el mundo de la programación con las herramientas necesarias. La asignatura pretende utilizar una metodología eminentemente práctica para impartir el nuevo conocimiento.</string>
 </resources>
