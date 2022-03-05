@@ -12,21 +12,23 @@
         android:layout_weight="1"
         android:weightSum="2"
         android:layout_margin="3dp"
-        android:background="@drawable/border">
+        android:background="@drawable/border"
+        android:clickable="true">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="0.3"
+            android:textStyle="bold"
             android:text="@string/a1"
             android:textSize="15sp"
             android:gravity="center_vertical">
         </TextView>
-        <ImageView
+        <!-- <ImageView
             android:layout_width="6dp"
             android:layout_height="0dp"
             android:src="@drawable/logo">
 
-        </ImageView>
+        </ImageView>-->
 
         <TextView
             android:layout_width="match_parent"
@@ -47,11 +49,13 @@
         android:layout_weight="1"
         android:weightSum="2"
         android:layout_margin="3dp"
-        android:background="@drawable/border">
+        android:background="@drawable/border"
+        android:clickable="true">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="0.3"
+            android:textStyle="bold"
             android:text="@string/a1"
             android:textSize="15sp"
             android:gravity="center_vertical">
@@ -75,11 +79,13 @@
         android:orientation="vertical"
         android:layout_weight="1"
         android:layout_margin="3dp"
-        android:background="@drawable/border">
+        android:background="@drawable/border"
+        android:clickable="true">
         <TextView
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="0.3"
+            android:textStyle="bold"
             android:text="@string/a1"
             android:textSize="15sp"
             android:gravity="center_vertical">
@@ -87,6 +93,7 @@
         </TextView>
         <TextView
             android:layout_width="match_parent"
+
             android:layout_height="0dp"
             android:layout_weight="1.7"
             android:text="@string/d1"
@@ -102,9 +109,11 @@
         android:orientation="vertical"
         android:layout_weight="1"
         android:layout_margin="3dp"
-        android:background="@drawable/border">
+        android:background="@drawable/border"
+        android:clickable="true">
         <TextView
             android:layout_width="match_parent"
+            android:textStyle="bold"
             android:layout_height="0dp"
             android:layout_weight="0.3"
             android:text="@string/a1"
