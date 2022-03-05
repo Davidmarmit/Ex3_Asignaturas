@@ -6,6 +6,7 @@
     android:weightSum="4" >
 
     <LinearLayout
+        android:id="@+id/b_a1"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:orientation="vertical"
@@ -14,15 +15,30 @@
         android:layout_margin="3dp"
         android:background="@drawable/border"
         android:clickable="true">
-        <TextView
+
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="0.3"
-            android:textStyle="bold"
-            android:text="@string/a1"
-            android:textSize="15sp"
-            android:gravity="center_vertical">
-        </TextView>
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:textStyle="bold"
+                android:text="@string/a1"
+                android:textSize="15sp"
+                android:gravity="center_vertical">
+            </TextView>
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:src="@mipmap/logo1">
+
+            </ImageView>
+        </LinearLayout>
+
         <!-- <ImageView
             android:layout_width="6dp"
             android:layout_height="0dp"
@@ -43,6 +59,7 @@
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/b_a2"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:orientation="vertical"
@@ -51,16 +68,28 @@
         android:layout_margin="3dp"
         android:background="@drawable/border"
         android:clickable="true">
-        <TextView
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="0.3"
-            android:textStyle="bold"
-            android:text="@string/a1"
-            android:textSize="15sp"
-            android:gravity="center_vertical">
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:textStyle="bold"
+                android:text="@string/a2"
+                android:textSize="15sp"
+                android:gravity="center_vertical">
+            </TextView>
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:src="@mipmap/logo1">
 
-        </TextView>
+            </ImageView>
+        </LinearLayout>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -74,6 +103,7 @@
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/b_a3"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:orientation="vertical"
@@ -81,16 +111,28 @@
         android:layout_margin="3dp"
         android:background="@drawable/border"
         android:clickable="true">
-        <TextView
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="0.3"
-            android:textStyle="bold"
-            android:text="@string/a1"
-            android:textSize="15sp"
-            android:gravity="center_vertical">
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:textStyle="bold"
+                android:text="@string/a3"
+                android:textSize="15sp"
+                android:gravity="center_vertical">
+            </TextView>
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:src="@mipmap/logo1">
 
-        </TextView>
+            </ImageView>
+        </LinearLayout>
         <TextView
             android:layout_width="match_parent"
 
@@ -104,6 +146,7 @@
 
     </LinearLayout>
     <LinearLayout
+        android:id="@+id/b_a4"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:orientation="vertical"
@@ -111,16 +154,28 @@
         android:layout_margin="3dp"
         android:background="@drawable/border"
         android:clickable="true">
-        <TextView
+        <LinearLayout
             android:layout_width="match_parent"
-            android:textStyle="bold"
             android:layout_height="0dp"
             android:layout_weight="0.3"
-            android:text="@string/a1"
-            android:textSize="15sp"
-            android:gravity="center_vertical">
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:textStyle="bold"
+                android:text="@string/a4"
+                android:textSize="15sp"
+                android:gravity="center_vertical">
+            </TextView>
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:src="@mipmap/logo1">
 
-        </TextView>
+            </ImageView>
+        </LinearLayout>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="0dp"
