@@ -38,14 +38,6 @@
 
             </ImageView>
         </LinearLayout>
-
-        <!-- <ImageView
-            android:layout_width="6dp"
-            android:layout_height="0dp"
-            android:src="@drawable/logo">
-
-        </ImageView>-->
-
         <TextView
             android:layout_width="match_parent"
             android:layout_height="0dp"
@@ -94,7 +86,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1.7"
-            android:text="@string/a2_detail"
+            android:text="@string/a2_maindetail"
             android:textSize="12sp"
             android:justificationMode="inter_word">
 
@@ -138,7 +130,7 @@
 
             android:layout_height="0dp"
             android:layout_weight="1.7"
-            android:text="@string/a3_detail"
+            android:text="@string/a3_maindetail"
             android:textSize="12sp"
             android:justificationMode="inter_word">
 
@@ -180,7 +172,7 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1.7"
-            android:text="@string/a4_detail"
+            android:text="@string/a4_maindetail"
             android:textSize="12sp"
             android:justificationMode="inter_word">
 

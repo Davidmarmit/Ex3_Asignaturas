@@ -3,34 +3,35 @@
     <string name="d1">El objetivo principal de la asignatura es ampliar los conocimientos de los alumnos en el campo de la programación, presentándolos un nuevo ámbito: la programación para dispositivos móviles. Dado que el mundo de la programación para dispositivos móviles es muy amplio, la asignatura se centrará en el sistema que, de momento, tiene una mayor presencia en el mercado. Este sistema es Android. La asignatura tendrá también como objetivo dotar al alumno de técnicas y conocimientos, tanto prácticos como teóricos, que le permitan afrontar el mundo de la programación con las herramientas necesarias. La asignatura pretende utilizar una metodología eminentemente práctica para impartir el nuevo conocimiento.</string>
     <!--SO-->
     <string name="a4">I3014_Sistemes operatius</string>
+    <string name="a4_maindetail">Un sistema operativo es una capa de software que se ejecuta sobre un hardware para ofrecer una serie de servicios. Cada vez más las funcionalidades de un sistema operativo incluyen más tareas y abarcan más servicios. El objetivo de la asignatura es ver un sistema operativo en todas sus partes y, de esta manera, dotar al estudiante de conocimientos sobre uno de los componentes más importantes en los sistemas informáticos de hoy en día.</string>
     <string name="a4_detail">Un sistema operativo es una capa de software que se ejecuta sobre un hardware para ofrecer una serie de servicios. Cada vez más las funcionalidades de un sistema operativo incluyen más tareas y abarcan más servicios. El objetivo de la asignatura es ver un sistema operativo en todas sus partes y, de esta manera, dotar al estudiante de conocimientos sobre uno de los componentes más importantes en los sistemas informáticos de hoy en día.</string>
-    <string name="a4_professor">Profesor: Manel Manchón</string>
-    <string name="a4_content">Contenido: Tema 1. Introducción a los Sistemas Operativos
+    <string name="a4_professor">Manel Manchón</string>
+    <string name="a4_content">Tema 1. Introducción a los Sistemas Operativos
     Tema 2. El núcleo del Sistema Operativo
     Tema 3. Planificación
     Tema 4. Mecanismos de comunicación, sincronización y exclusión mutua</string>
-    <string name="a4_credits">Creditos: 6</string>
-    <string name="a4_becarios">Tiene becarios: Si</string>
-    <string name="a4_aula">Aula: s1.02</string>
+    <string name="a4_credits">6</string>
+    <string name="a4_becarios">Si</string>
+    <string name="a4_aula">S1.02</string>
 
     <!--Web-->
     <string name="a3">I3010_Desenvolupament en entorns web</string>
     <string name="a3_detail">El objetivo de la asignatura Desarrollo en entornos web es que los alumnos adquieran los conocimientos necesarios para Desarrollar Aplicaciones utilizando tecnologías web. Las tecnologías utilizadas y que se imparten son HTML, CSS y JavaScript. Actualmente son el estándar recomendado por la W3C (World Wide Consortium) y consideradas las mejores para el Desarrollo web.</string>
-    <string name="a3_professor">Profesor: Daniel Amo</string>
-    <string name="a3_content">Contenido: Tema 1. Fundamentos Web: Introducción a la historia y evolución del ecosistema y arquitectura web.
+    <string name="a3_maindetail">El objetivo de la asignatura Desarrollo en entornos web es que los alumnos adquieran los conocimientos necesarios para Desarrollar Aplicaciones utilizando tecnologías web. Las tecnologías utilizadas y que se imparten son HTML, CSS y JavaScript. Actualmente son el estándar recomendado por la W3C (World Wide Consortium) y consideradas las mejores para el Desarrollo web.</string>
+    <string name="a3_professor">Daniel Amo</string>
+    <string name="a3_content">Tema 1. Fundamentos Web: Introducción a la historia y evolución del ecosistema y arquitectura web.
     Tema 2. HTML: Definición del lenguaje HTML, tipo, taxonomía de tags y estructura del lenguaje dentro de los documentos HTML para el desarrollo de webs semánticas y válidas según estándar.
     Tema 3. CSS: Introducción al CSS, web responsive y su uso como formateador en la visualización de un documento HTML.
     Tema 4. JavaScript y Conectividad: Introducción al DOM, metodología de programación del lenguaje como gestor del DOM. Introducción a los métodos, modelos y formatos de datos en la comunicación web entre cliente / servidor.</string>
-    <string name="a3_credits">Creditos: 6</string>
-    <string name="a3_becarios">Tiene becarios: No</string>
-    <string name="a3_aula">Aula: s1.02</string>
+    <string name="a3_credits">6</string>
+    <string name="a3_becarios">No</string>
+    <string name="a3_aula">S1.02</string>
 
     <!--Android-->
     <string name="a1">I3012_Desenvolupament en dispositius mòbils I</string>
     <string name="a1_detail">El objetivo principal de la asignatura es ampliar los conocimientos de los alumnos en el campo de la programación, presentándolos un nuevo ámbito: la programación para dispositivos móviles. Dado que el mundo de la programación para dispositivos móviles es muy amplio, la asignatura se centrará en el sistema que, de momento, tiene una mayor presencia en el mercado. Este sistema es Android. </string>
-    <string name="a1_professor">Profesor: Manel Roca</string>
-    <string name="a1_content">Contenido:
-        Tema 1. Introducción a la plataforma Android
+    <string name="a1_professor">Manel Roca</string>
+    <string name="a1_content">Tema 1. Introducción a la plataforma Android
     1. Java y SDK
     2. APK
     3. Sistema operativo y Arquitectura
@@ -61,15 +62,16 @@
 
     Tema 6. Geolocalització
     1. Maps</string>
-    <string name="a1_credits">Creditos: 6</string>
-    <string name="a1_becarios">Tiene becarios: No</string>
-    <string name="a1_aula">Aula: s2.01</string>
+    <string name="a1_credits">6</string>
+    <string name="a1_becarios">No</string>
+    <string name="a1_aula">S2.01</string>
 
     <!--Aso-->
     <string name="a2">I3015_Administració de sistemes operatius</string>
     <string name="a2_detail">En la asignatura de Administración de sistemas operativos se dan los conocimientos básicos necesarios para administrar cualquier sistema servidor, tanto por lo que se refiere al sistema operativo como a los servicios que se ofrecen, profundizando especialmente en la administración de sistemas operativos de la família UNIX.</string>
-    <string name="a2_professor">Profesor: Manel Roca</string>
-    <string name="a2_content">Contenido: 1. Introducción i instalación del sistema operativo Linux.
+    <string name="a2_maindetail">En la asignatura de Administración de sistemas operativos se dan los conocimientos básicos necesarios para administrar cualquier sistema servidor, tanto por lo que se refiere al sistema operativo como a los servicios que se ofrecen, profundizando especialmente en la administración de sistemas operativos de la família UNIX.</string>
+    <string name="a2_professor">Manel Roca</string>
+    <string name="a2_content">1. Introducción i instalación del sistema operativo Linux.
     2. Comandos, conceptos básicos y scripts shell I.
     3. Instalación y administración de software y scripts shell II.
     4. Herramientas administrativas.
@@ -79,7 +81,14 @@
     8. Administración de servicios de red.
     9. Scripts shell III
     10. Recompilación del kernel y LDAP.</string>
-    <string name="a2_credits">Creditos: 6</string>
-    <string name="a2_becarios">Tiene becarios: No</string>
-    <string name="a2_aula">Aula: s1.02</string>
+    <string name="a2_credits">6</string>
+    <string name="a2_becarios">No</string>
+    <string name="a2_aula">S1.02</string>
+
+    <!--Misc-->
+    <string name="desc">Descripción:</string>
+    <string name="cred">Creditos:</string>
+    <string name="tiene_becarios">Tiene becarios:</string>
+    <string name="aulas">Aula(s):</string>
+    <string name="profesor">Profesor:</string>
 </resources>

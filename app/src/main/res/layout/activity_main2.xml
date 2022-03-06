@@ -10,24 +10,41 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text="@string/a1"
+        android:textStyle="bold"
         android:textSize="18sp"
         android:textAlignment="center"
-        android:background="@drawable/cuadrado">
+        android:layout_marginTop="8dp">
 
     </TextView>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="20"
+        android:layout_weight="10"
         android:orientation="vertical"
-        android:background="@drawable/cuadrado">
+        android:layout_margin="3dp">
 
         <TextView
-            android:id="@+id/profesor"
             android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
+            android:layout_height="25dp"
+            android:text="@string/profesor"
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </TextView>
+        <TextView
+            android:id="@+id/profesor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:textSize="20sp">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+
+            android:text="@string/desc"
+            android:textSize="20sp"
+            android:textStyle="bold">
 
         </TextView>
         <TextView
@@ -38,35 +55,56 @@
 
         </TextView>
         <TextView
-            android:id="@+id/creditos"
             android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
+            android:layout_height="25dp"
+            android:text="@string/cred"
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+        </TextView>
+        <TextView
+            android:id="@+id/creditos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:textSize="20sp">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:text="@string/tiene_becarios"
+            android:textSize="20sp"
+            android:textStyle="bold">
 
         </TextView>
         <TextView
             android:id="@+id/becarios"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:textSize="20sp">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:text="@string/aulas"
+            android:textSize="20sp"
+            android:textStyle="bold">
 
         </TextView>
         <TextView
             android:id="@+id/aula"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:textSize="20sp">
 
         </TextView>
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="10">
 
-        </TextView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="7">
 
     </LinearLayout>
 

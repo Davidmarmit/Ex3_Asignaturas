@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/david/StudioProjects/LsAsignaturas/app/src/main/res/drawable/border.xml" value="0.325" />
+        <entry key="..\:/Users/david/StudioProjects/LsAsignaturas/app/src/main/res/drawable/border_rectangle.xml" value="0.2825" />
+        <entry key="..\:/Users/david/StudioProjects/LsAsignaturas/app/src/main/res/drawable/cuadrado.xml" value="0.2825" />
         <entry key="..\:/Users/david/StudioProjects/LsAsignaturas/app/src/main/res/drawable/linea.xml" value="0.2825" />
         <entry key="..\:/Users/david/StudioProjects/LsAsignaturas/app/src/main/res/drawable/logo.xml" value="0.3115" />
+        <entry key="..\:/Users/david/StudioProjects/LsAsignaturas/app/src/main/res/drawable/rectangle_round.xml" value="0.2825" />
         <entry key="..\:/Users/david/StudioProjects/LsAsignaturas/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/david/StudioProjects/LsAsignaturas/app/src/main/res/layout/activity_main2.xml" value="0.25" />
         <entry key="..\:/Users/david/StudioProjects/LsAsignaturas/app/src/main/res/layout/border.xml" value="0.3223958333333333" />
